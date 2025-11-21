@@ -1,0 +1,8 @@
+
+website = "http://www.sadıkturan.com"
+course = "Python Kursu: Baştan Sona Python Programlama Rehperiniz (40 saat)"
+
+
+#1 'course' karater dizisinde kaç karakter bulunmaktadır?
+#2 'website' içerisinden www karakterlerini alın.
+#3 
